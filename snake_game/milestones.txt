@@ -1,0 +1,42 @@
+Milestones: 
+    - Change initial size of snake, speed, symbol.
+    - Move snake in the given direction (after right, left shouldn't happen)
+    - Implement eating food
+    - Welcome screen
+    - Menu for initial size of snake and stuff
+    - Play and pause button
+    - Point system
+    - Save the score and position of snake and food and load it later
+    - Game over screen
+    - Color
+    - Board size
+    - Die when hits the board wall and if eats itself or when length less than 1 (some kind of handling for that)
+    - Instructions for how to play displayed (Welcome screen)
+
+// 50 points for each and 25 points for extra credit
+Milestone 1
+    - Move the snake with keys. 
+    - Welcome screen (enter input for size of snake)
+    - Eat food
+    - Add points
+    - Snake should grow when you eat food
+    - Quit with q
+
+Milestone 2
+    - Another symbol of food
+    - Pause with p
+    - Change the speed of the game
+    - Add levels Easy, Medium, Hard (More snake speed, more number of food on board, smaller board size)
+    - Show the top 10 high score
+    - Save the entire state of the game (any format in .snake kinda file)
+    - Game over screen
+    - If hit the end of the board, then die
+    - If eats itself, then die
+
+Milestone 3
+    - Color
+    - Obsticles (Extra credit) If snake hits it, the snake will die
+    - Menu when you pause
+    - Load the game from the file (Color menu)
+    - Add extra snakes that move around and if you hit them, then die
+    
