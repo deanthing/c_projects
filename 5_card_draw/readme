@@ -1,0 +1,1 @@
+This is a C program that utilizes structures to generate a random deck of cards, draw 5, and then output if the hand is a high-card, two-pair, straight, flush, fullHouse, fourKind, and royalFlush. 
